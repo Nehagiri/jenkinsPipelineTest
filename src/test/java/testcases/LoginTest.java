@@ -7,7 +7,7 @@ public class LoginTest {
 	@Test
 	void Hello()
 	{
-		System.out.println("********** Hello from Login test **********");
+		System.out.println("********** Hello from Login test Update**********");
 	}
 
 }
